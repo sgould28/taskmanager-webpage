@@ -4,7 +4,7 @@ const taskList = document.getElementById("taskList");
 const progressBar = document.getElementById("progressBar");
 const progressLabel = document.getElementById("progressLabel");
 const taskSummary = document.getElementById("taskSummary");
-const emptyState = document.getElementById("emptyState");
+
 
 const tasks = [];
 
